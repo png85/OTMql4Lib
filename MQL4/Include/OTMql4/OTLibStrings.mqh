@@ -15,3 +15,5 @@
 string uAnsi2Unicode(int ptrStringMemory);
 void vStringToArray(string uInput, string& uOutput[], string uDelim);
 string uStringReplace(string uHaystack, string uNeedle, string uReplace);
+
+#import
